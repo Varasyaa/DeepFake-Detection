@@ -1,0 +1,11 @@
+/image-forensics-project
+│── /backend
+│   │── app.py
+│   │── /models
+│   │   │── image_forgery_cnn.h5
+│   │   │── deepfake_detector.pt
+│   │── /uploads
+│── /frontend
+│   │── src/App.js
+│   │── package.json
+│   │── public/index.html
